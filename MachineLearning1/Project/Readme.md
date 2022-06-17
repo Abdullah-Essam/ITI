@@ -1,6 +1,9 @@
 # Pose Detection Project
 Final project to Machine Learning 1 course at ITI 9-Month Diploma track AI-Pro
 
+Demo Video:
+https://drive.google.com/file/d/17meu0nuc3DFz7fWtH73BTOZX0GrJxg5i/view?usp=sharing
+
 ### Technology Used
 - Using OpenCV to deal with images and open video stream from camera
 - Using Mediapipe to get face landmarks
